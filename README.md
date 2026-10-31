@@ -18,3 +18,5 @@ artifacts must block packaging rather than silently omit the runtime.
 Preview releases are for integration review and are not native-platform release
 acceptance. This repository's automatic GitHub source archives contain only this
 README and license notices.
+
+The first Linux x86_64 preview is built on Ubuntu 24.04 (glibc 2.39). Its text inference worker requires AVX2-capable hardware. It is not compatible with the existing Ubuntu 22.04 release baseline. Native Windows, macOS, FreeBSD and other architecture archives are not yet published. Model weights are not included.
