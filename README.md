@@ -1,6 +1,6 @@
-# Enki runtime binaries
+# Oqelith runtime binaries
 
-This repository distributes compiled Enki companion-runtime binaries and their
+This repository distributes compiled Oqelith companion-runtime binaries and their
 license notices. The daemon and inference-worker implementation source remains
 private. The separately licensed MIT client SDK is not the daemon implementation.
 
